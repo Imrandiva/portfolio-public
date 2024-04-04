@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://imrandiva.id
+
+# Sitemaps
+Sitemap: https://imrandiva.id/sitemap.xml
